@@ -9,7 +9,7 @@ This is a custom-designed promotional HTML email template for **Mega Stars Touri
 - Clean typography and branding colors
 
 ### Preview
-![Preview of Mega Stars Email](https://i.postimg.cc/j2bc0kBf/Mega-Stars-Logo-removebg-preview.png)
+![Preview of Mega Stars Email](https://waleedabosalem20.github.io/megastars-email-template/)
 
 ### How to Use
 - Copy the code from `index.html`
